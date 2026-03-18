@@ -6,6 +6,7 @@
     "codespaces": {
       "openFiles": [
         "README.md",
+        "data/website_data.csv",
         "dashboard/app.py"
       ]
     },
