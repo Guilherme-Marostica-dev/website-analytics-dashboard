@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load data
-df = pd.read_csv('../data/website_data.csv')
+df = pd.read_csv('/data/website_data.csv')
 
 # Classification
 def classify_site(row):
