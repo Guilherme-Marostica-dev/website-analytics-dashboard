@@ -43,9 +43,9 @@ The dataset includes simulated website data with the following metrics:
 
 ## Key Insights
 
-- Websites with higher **load times** tend to have higher **bounce rates**, indicating performance directly impacts user retention  
-- **SEO score** shows a strong relationship with **traffic**, reinforcing the importance of search optimization  
-- Some websites can rank well despite poor performance, but still lose users due to slow loading  
+- Websites with higher **load times** tend to have higher **bounce rates**, indicating performance directly impacts user retention;  
+- **SEO score** shows a strong relationship with **traffic**, reinforcing the importance of search optimization;
+- Some websites can rank well despite poor performance, but still lose users due to slow loading.
 
 ---
 
@@ -57,12 +57,6 @@ The dataset includes simulated website data with the following metrics:
   - Average  
   - Needs Optimization  
 - Visual analysis of performance vs user behavior  
-
----
-
-## Dashboard Preview
-
-*(Add screenshots here)*
 
 ---
 
@@ -82,4 +76,4 @@ This project demonstrates how combining web development experience with data ana
 
 ## 👨‍💻 Author
 
-Guilherme Maróstica  
+Guilherme dos Santos Maróstica  
